@@ -104,7 +104,31 @@ Cross-validation: Employed using KFold and GridSearchCV to fine-tune model param
 Model Evaluation
 Evaluation metrics included Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R² score.
 
+
+
 Feature importance plots from tree-based models were used to interpret model decisions.
 
 Conclusion
 The notebooks comprehensively cover a full machine learning workflow tailored for regression problems, specifically housing price prediction. Through thorough EDA, strategic feature engineering, robust feature selection, and ensemble modeling, the analysis demonstrates how to extract meaningful insights and build a predictive pipeline from raw housing data. The consistent use of visualizations, statistical tests, and modeling best practices reflects a strong grasp of applied machine learning principles in real estate valuation.
+
+
+#OUTPUT
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/78e63656-bfb1-4607-a83b-4f9406e8d24c)
+![Image](https://github.com/user-attachments/assets/8b88c37f-49c4-4939-8ccc-b068b9ec72de)
+![Image](https://github.com/user-attachments/assets/fc0a4b58-c56b-4654-943a-34d9095f37f4)
+![Image](https://github.com/user-attachments/assets/c3cd79dd-c028-4384-8ef5-6b4694b923fa)
+![Image](https://github.com/user-attachments/assets/756ba3ab-54ef-4119-91d4-f21b077ba31b)
+![Image](https://github.com/user-attachments/assets/3c279c76-abb9-4977-99bc-29c58de5a690)
+![Image](https://github.com/user-attachments/assets/2fc4da1b-eb0c-474b-842d-f6a8819c8c72)
+![Image](https://github.com/user-attachments/assets/c48d6b0c-992e-46b1-b62d-8fd67d53ad1a)
+![Image](https://github.com/user-attachments/assets/3b29ea34-aaa4-4372-b885-b05555e9c4b1)
+![Image](https://github.com/user-attachments/assets/3449130f-f126-4778-90d8-b9fcb6e76a8a)
+![Image](https://github.com/user-attachments/assets/ad748364-c9e9-473a-a79a-575989df4b20)
+![Image](https://github.com/user-attachments/assets/658ed845-6b36-49ae-acb0-94a7c6a913ab)
+![Image](https://github.com/user-attachments/assets/ad8341c8-d415-48a2-ae53-79137411b754)
+![Image](https://github.com/user-attachments/assets/9561d1e5-2fb4-483e-ac33-c2c81ba76318)
+![Image](https://github.com/user-attachments/assets/0e625fb4-6860-45f2-b99c-9cf7b39ea164)
+![Image](https://github.com/user-attachments/assets/e5bb1dfc-9551-4c96-a2f4-6ae1ee471f7d)
