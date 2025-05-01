@@ -112,9 +112,7 @@ Conclusion
 The notebooks comprehensively cover a full machine learning workflow tailored for regression problems, specifically housing price prediction. Through thorough EDA, strategic feature engineering, robust feature selection, and ensemble modeling, the analysis demonstrates how to extract meaningful insights and build a predictive pipeline from raw housing data. The consistent use of visualizations, statistical tests, and modeling best practices reflects a strong grasp of applied machine learning principles in real estate valuation.
 
 
-#OUTPUT
-
-##OUTPUT
+## Output
 
 ![Image](https://github.com/user-attachments/assets/78e63656-bfb1-4607-a83b-4f9406e8d24c)
 ![Image](https://github.com/user-attachments/assets/8b88c37f-49c4-4939-8ccc-b068b9ec72de)
